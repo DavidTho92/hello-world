@@ -1,3 +1,2 @@
 # hello-world
 ...
-25/11 Redoing the editing process before commit stuff, did it wrong the first time, changes made direct to the master copy
